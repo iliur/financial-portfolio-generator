@@ -1,8 +1,8 @@
-# Submission to the CFM 2022 Finance & Data Analytics Competition #
-https://uwaterloo.ca/computing-financial-management/news/congratulations-winning-teams-second-annual-cfm-101-team
-
 # Automated Financial Portfolio Generator #
 Python program that consumes a list of tickers (minimum 25), and does data filtering and financial analysis to produce a risky financial portfolio.
+
+## Submission to the CFM 2022 Finance & Data Analytics Competition ##
+https://uwaterloo.ca/computing-financial-management/news/congratulations-winning-teams-second-annual-cfm-101-team
 
 ## Achievements: ##
 * Increased performance times by **3x** by utilizing multithreading and parallelism
